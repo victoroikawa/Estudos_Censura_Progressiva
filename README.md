@@ -1,6 +1,8 @@
 # Análise Bayesiana de Sobrevivência
 
-Este é um script R para realizar uma análise bayesiana de sobrevivência usando o pacote MCMCpack. O objetivo é estimar os parâmetros de um modelo de sobrevivência com base em dados censurados.
+Este é um script R (primeira versão) para realizar uma análise bayesiana de sobrevivência usando o pacote MCMCpack. O objetivo é estimar os parâmetros de um modelo de sobrevivência com base em dados censurados.
+
+Ainda tem bastante coisa pra corrigir xd
 
 ## Parâmetros do Modelo
 
