@@ -30,8 +30,3 @@ O loop `for` simula dados de sobrevivência usando um método específico e ajus
 
 O script calcula estatísticas como média, desvio padrão, intervalos de confiança e probabilidade de cobertura para os parâmetros alpha e lambda. Além disso, são apresentados viés e erro quadrático médio.
 
-## Visualizações
-
-O script inclui gráficos de traceplot e autocorrelação para avaliar a convergência da cadeia MCMC.
-
-Lembre-se de ajustar os valores verdadeiros de alpha e lambda e outros parâmetros conforme necessário para suas necessidades específicas.
